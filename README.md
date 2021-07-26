@@ -1,5 +1,5 @@
 ***
-# **Gianfranco Pavetto**
+# **Gianfranco Pavetto**👨🏻‍💻
 
 
 ### ***Hi there!*** 👋🏻 Thanks for the visit to my **Git-Hub** Profile. 😁
@@ -11,10 +11,10 @@
 # 💬 *About me ...*
 
 
-### I'm a very curious web programmer. I love to study how all the things we normaly do or use works.
+## I'm a very curious web programmer. I love to study how all the things we normaly do or use works.
 
 
-> *Knowledge is power.*
+> ##### *Knowledge is power.*
 
 
 ### I have completed the first year in system engineering before making my self a self-taught student.
@@ -29,19 +29,20 @@
 # 👦🏻 *Interests and hobbies ...*
 
 
-### Not everything in my life is studies and code. I also have various hobbies:
+## Not everything in my life is studies and code. I also have various hobbies:
 
-- Swimming.
+- ### Swimming. 🏊🏻‍♂️
 
-- Play the guitar. ( Need a new one. The old guitar of my cousin passed away )
+- ### Play the guitar. ( Need a new one. The old guitar of my cousin passed away ) 🎸
 
-- Group travels.
+- ### Travel to new places. ✈
 
-- Chess. ( Not very good at it. Still love it )
+- ### Chess. ( Not very good at it. Still love it ) ♟
 
-- Digital art. ( Drawing and editing )
+- ### Digital art. ( Drawing and editing ) 🎨
 
-- Game devolpment ( Unity )
+- ### Game devolpment ( Unity ) 🎮
+
 <!--
 **Yiftleh/Yiftleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
