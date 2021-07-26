@@ -3,7 +3,8 @@
 
 
 ### ***Hi there!*** 👋🏻 Thanks for the visit to my **Git-Hub** Profile. 😁
-### *Here is were all the magic happens* 🙌🏻
+### [Here is a link to my resume.](https://drive.google.com/file/d/1gBj1bHZ-4RfPhUv8ATaD4lsS48yYdhnw/view?usp=sharing)
+### *This is where all the magic happens* 🙌🏻
 
 
 ***
@@ -23,7 +24,6 @@
 
 ### The Web it's the most important link we have within each others. We jumped from having messages delivered in months to a couple of seconds. Bringing to every person with an internet connection, information of all around the globe.
 
-[Here is a link to my resume.](https://drive.google.com/file/d/1gBj1bHZ-4RfPhUv8ATaD4lsS48yYdhnw/view?usp=sharing)
 
 ***
 # 👦🏻 *Interests and hobbies ...*
