@@ -4,6 +4,7 @@
 
 ### ***Hi there!*** 👋🏻 Thanks for the visit to my **Git-Hub** Profile. 😁
 ### [Here is a link to my resume.](https://drive.google.com/file/d/1gBj1bHZ-4RfPhUv8ATaD4lsS48yYdhnw/view?usp=sharing) 📃
+### [And here is a link to my LinkedIN.](https://www.linkedin.com/in/gianfranco-pavetto/)
 ### *This is where all the magic happens* 🙌🏻
 
 
